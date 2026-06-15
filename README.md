@@ -1,89 +1,109 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Welcome%20to%20Nurmuhammet's%20Github&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-</div>
-
-<h3 align="center">ðŸ”— Connect with me</h3>
+<h1 align="center">Hi 👋, I'm Kaarthikeyan M</h1>
+<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://about-me-gilt-two.vercel.app"><img src="https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://t.me/joaninnn_"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nurmuhammet-altybaev-50b222338"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">About me</h2>
+## 🚀 About Me
 
-<p align="center">
-Hello, I'm <b>Nurmuhammet Altybaev</b> â€” a Frontend Developer focused on building clean, scalable, and modern web applications.<br/>
-I value structure, performance, and long-term maintainability over hype.
-</p>
+- 🎓 Computer Science Graduate
+- 💻 Passionate about building modern and responsive web applications
+- 🌱 Currently learning **Full Stack Development & Cloud Technologies**
+- 🚀 Love solving real-world problems through code
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun Fact: I enjoy turning ideas into interactive web experiences.
 
-<p align="center">
-<b>Frontend Developer</b><br/>
-React / Next.js / TypeScript<br/>
-Modern UI & clean architecture<br/>
-Strong GitHub collaboration mindset
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/yourusername" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:your-email@example.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 ---
 
-<h2 align="center">Technologies</h2>
+## 🛠️ Languages and Tools
 
-<h3 align="center">Core Technologies</h3>
+<p align="left">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=vite" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-<h3 align="center">Frameworks & Libraries</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTK_QUERY-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZUSTAND-433E38?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-<h3 align="center">Team Collaboration</h3>
-
-<p align="center">
-Experienced in team development using <b>GitHub</b>, pull requests, code reviews, and structured workflows.
 </p>
 
 ---
 
-<h2 align="center">Statistics</h2>
-
-<h3 align="center">Nurmuhammet's GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaninnn&layout=compact&theme=dark&title_color=ffffff&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaninnn&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&bg_color=0d1117" width="48%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h2 align="center">ðŸ”¥ Contribution Streak</h2>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaninnn&theme=dark&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
-<h2 align="center">ðŸ“Š Contribution Graph</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaninnn&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Have a great day! ⭐
 </p>
